@@ -64,4 +64,12 @@
     </plugins>
   </build>
 
+      <distributionManagement>
+        <id>maven-snapshots</id>
+        <name>maven-snapshots</name>
+        <url>http://nexus.dot-cdp.de/#browse/browse:maven-snapshots</url>
+
+      </distributionManagement>
+
+
 </project>
